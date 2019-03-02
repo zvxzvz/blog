@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: "Peace and Victory .ID - A Thread", // <title>
   shortSiteTitle: "Website", // <title> ending for posts and pages
   siteDescription: "Mozaik",
-  siteUrl: "https://peaceandvictory.id/",
+  siteUrl: "https://zvxzvz.github.io",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
