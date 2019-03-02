@@ -5,7 +5,7 @@ module.exports = {
   shortSiteTitle: "Website", // <title> ending for posts and pages
   siteDescription: "Mozaik",
   siteUrl: "https://peaceandvictory.id",
-  pathPrefix: "",
+  pathPrefix: "/blog",
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
